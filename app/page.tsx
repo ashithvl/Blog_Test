@@ -92,7 +92,7 @@ export default function Home() {
             </div>
             <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">Easy to Navigate</h3>
             <p className="text-gray-600 dark:text-gray-300">
-              Intuitive design and navigation make it easy to find and read the content you're looking for.
+              Intuitive design and navigation make it easy to find and read the content you&apos;re looking for.
             </p>
           </div>
         </div>
